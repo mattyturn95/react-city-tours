@@ -3,7 +3,7 @@ export const tourData = [
         id: 1,
         city: "new york",
         img: "./img/newyork.jpeg",
-        name: "new york bridge tour",
+        name: "new york bridge tours",
         info:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
     },
@@ -11,7 +11,7 @@ export const tourData = [
         id: 2,
         city: "paris",
         img: "./img/paris.jpeg",
-        name: "paris lights tour",
+        name: "paris lights tours",
         info:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
     },
@@ -19,7 +19,7 @@ export const tourData = [
         id: 3,
         city: "london",
         img: "./img/london.jpeg",
-        name: "london royal palace tour",
+        name: "london royal palace tours",
         info:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
     },
@@ -27,39 +27,39 @@ export const tourData = [
         id: 4,
         city: "tokyo",
         img: "./img/tokyo.jpeg",
-        name: "tokyo sushi tour",
+        name: "tokyo sushi tours",
         info:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
     },
     {
         id: 5,
-        city: "new york",
-        img: "./img/newyork.jpeg",
-        name: "new york bridge tour",
+        city: "cape town",
+        img: "./img/capetown.jpeg",
+        name: "cape town tours",
         info:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
     },
     {
         id: 6,
-        city: "paris",
-        img: "./img/paris.jpeg",
-        name: "paris lights tour",
+        city: "Sydney",
+        img: "./img/sydney.jpeg",
+        name: "sydney harbour tours",
         info:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
     },
     {
         id: 7,
-        city: "london",
-        img: "./img/london.jpeg",
-        name: "london royal palace tour",
+        city: "Hanoi",
+        img: "./img/hanoi.jpeg",
+        name: "hanoi street market tours",
         info:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
     },
     {
         id: 8,
-        city: "tokyo",
-        img: "./img/tokyo.jpeg",
-        name: "tokyo sushi tour",
+        city: "Dubai",
+        img: "./img/dubai.jpeg",
+        name: "dubai shopping tours",
         info:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
     }
